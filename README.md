@@ -17,3 +17,5 @@ The project is coded in Python 3 and uses *OpenCV* + *PyTesseract* to detect the
 #### Example output:
 
 <img src="https://github.com/alex-24/WordSearch/blob/main/resources/images/output/solved/solved_1.png"/>
+
+Note: "DROID" is detected as "DOOEN"...
